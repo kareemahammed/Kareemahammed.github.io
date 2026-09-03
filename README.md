@@ -1,4 +1,4 @@
-# [Your Name] - Data Analysis Portfolio
+# kerimat Hammed - Data Analysis Portfolio
 
 Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
 
@@ -6,6 +6,7 @@ Welcome! This repository contains the complete template for a professional, one-
 
 This portfolio is designed to demonstrate skills in:
 - Data visualization and storytelling
+- Data cleaning and Transformation
 - Data modeling and analysis
 - Creating interactive, professional dashboards
 - Transforming complex data into actionable insights
