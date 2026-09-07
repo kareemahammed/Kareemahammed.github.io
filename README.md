@@ -1,19 +1,21 @@
-# kerimat Hammed - Data Analysis Portfolio
+# Kerimat Hammed - Data Analysis Portfolio
 
-Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
+Welcome! This repository contains my professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
 
-## About This Portfolio Template
+## About This Portfolio
+I'm a data analyst with hands on experience in Power BI and Excel, intermediate SQL, and growing Skills in Python and Tableau. This portfolio showcases projects across sales, HR, sports, and small business data demonstrating my ability to: 
 
-This portfolio is designed to demonstrate skills in:
-- Data visualization and storytelling
-- Data cleaning and Transformation
-- Data modeling and analysis
-- Creating interactive, professional dashboards
-- Transforming complex data into actionable insights
+- Visualize data and tell a clear story with it
+- cleaning and transform messy, real-world datasets
+- Model and analyze data to answer business questions
+- Build interactive, professional dashboards
+- Turn complex data into actionable insights
 
 ## 🚀 Projects
 
-This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
+### Vrinda Store Sales Analysis
+An analysis of sales performance for Vrinda Store, uncovering trends in revenue, top selling products, and customer behavior.
+
 
 ### Project Title One
 *A brief description of your project, the tools used, and the key insights derived.*
@@ -30,9 +32,8 @@ This template is set up to showcase your best work. You can easily customize the
 Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
 
 - **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
+- **Data Analysis**: SQL, Python (Pandas), Excel, etc.
 - **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-- **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
 
 ## 💡 How to Use This Template
 
