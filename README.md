@@ -15,6 +15,7 @@ I'm a data analyst with hands on experience in Power BI and Excel, intermediate 
 
 ### Vrinda Store Sales Analysis
 An analysis of sales performance for Vrinda Store, uncovering trends in revenue, top selling products, and customer behavior.
+https://github.com/kareemahammed/vrinda-store-sales-analysis.git
 
 
 ### Project Title One
